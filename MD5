@@ -1,0 +1,13 @@
+484dddb8d79acdcdc6d650b095c2ef6a *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+48c81be0b287b9308ff775adc63808be *data/datalist
+62937dadac4fb0efc170e763e074b8bd *data/wgscan.cgu.RData
+a61b7ace8362a7a7d238b1a84da38c13 *data/wgscan.eut.RData
+350e782fc3afbab45c52656e2e5294d0 *inst/CITATION
+778c127c7f147528bac44d0cf47c2420 *inst/bta12_cgu.hap.zip
+36a5f73071dd039f7f8e66543494c432 *inst/bta12_cgu.thap.zip
+6fa8a106618ab5439da4114f889262b3 *inst/bta12_hapguess_switch.out.zip
+f39318aa798da83859e1d2d6e3ce4faf *inst/map.inp.zip
+47e2c9931c20429aa2b26532c487aeea *man/rehh-package.Rd
+b22f317e8431f2045fa5634da6c35ee0 *man/wgscan.cgu.Rd
+abe08226b2cf658641fafc7cbe1bbb46 *man/wgscan.eut.Rd
